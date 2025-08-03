@@ -24,15 +24,7 @@ const aboutData = [
     info: [
       {
         title: 'Web Development',
-        icons: [
-          <FaHtml5 />,
-          <FaCss3 />,
-          <FaJs />,
-          <FaReact />,
-          <SiNextdotjs />,
-          <SiFramer />,
-          <FaWordpress />,
-        ],
+        icons: [FaHtml5, FaCss3, FaJs, FaReact, SiNextdotjs]
       },
       {
         title: 'UI/UX Design',
