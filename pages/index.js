@@ -26,11 +26,14 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Product Owner <br /> Business Partnership{" "}
+            Product Owner 
+            <br />
             <span className="text-accent">
-              <br />
               Business Analyst
             </span>
+            <br />
+            Business Partnership{" "}
+
           </motion.h1>
           {/* subtitle */}
           <motion.p
