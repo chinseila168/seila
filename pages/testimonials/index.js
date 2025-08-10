@@ -7,7 +7,7 @@ const Testimonials = () => {
     <div className="container mx-auto h-full flex flex-col justify-center">
       {/* title */}
       <h2 className='h2 mb-8 xl:mb-0'>
-        Waht client <span className='text-accent'>say.</span>
+        What client <span className='text-accent'>say.</span>
       </h2>
       {/* silder */}
       <div>
