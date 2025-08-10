@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 
 // icons
 import {
@@ -18,7 +18,7 @@ import {
 } from "react-icons/si";
 
 //  data
-const aboutData = [
+export const aboutData = [
   {
     title: 'skills',
     info: [
